@@ -6,4 +6,4 @@ NCam: Open Source Conditional Access Module [![License: GPL v3](https://img.shie
 
 - *Copyright (C) 2012-2018 developed by [Javilonas](https://github.com/javilonas/NCam)*
 
-**Copyright (C) 2015-present Updated and patched by RAED ([speedy005 & B.o.S.c.]((https://github.com/bosc306/ncam_b) "NCam-BoNe-CrEw Version")).**
+**Copyright (C) 2024-present by BoNe-CrEw ([speedy005 & B.o.S.c.]((https://github.com/bosc306/ncam_b) "NCam-BoNe-CrEw Version")).**
