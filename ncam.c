@@ -158,8 +158,8 @@ static void show_usage(void)
 	}
 	printf("\n");
 	printf("Copyright (C) 2012-2018 developed by Javilonas.\n");
-	printf("Updated, Patched and Recompiled By RAED.\n");
-	printf("Visit https://www.tunisia-sat.com/ for more details.\n\n");
+	printf("Updated, Patched and Recompiled By speedy005 & B.o.S.c.\n");
+	printf("Visit https://bone-crew.neocities.org/ for more details.\n\n");
 
 	printf(" ConfigDir  : %s\n", CS_CONFDIR);
 	printf("\n");
