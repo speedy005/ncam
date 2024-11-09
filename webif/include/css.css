@@ -160,7 +160,7 @@ li.menu_selected a,li.menu_selected a:hover {
 }
 li.menu:hover, li.menu_selected, 
 li.configmenu:hover, li.configmenu_selected {
-	background-color:#DDD
+	background-color:#1f1e1e
 }
 
 /* **************** 6. SUBNAV */
@@ -2390,7 +2390,7 @@ li.configmenu:hover, li.configmenu_selected {
 }
 li.configmenu a, li.configmenu a:hover,
 li.configmenu_selected a, li.configmenu_selected a:hover {
-	color:#0914e6
+	color:#0ad1bd
 }
 /* entitlements.html, readerconfig.html and user_edit.html */
 li.text_entitle {
@@ -3486,7 +3486,7 @@ li.menu_selected a,li.menu_selected a:hover {
 }
 li.menu:hover, li.menu_selected, 
 li.configmenu:hover, li.configmenu_selected {
-	background-color:#2c373e;
+	background-color:#179deb;
 	border: 0.5px solid #3bb2f9;
 	border-radius: 9px;
 	box-shadow: 10px -8px 36px -3px rgba(132,197,250,1);
@@ -3508,7 +3508,7 @@ li.configmenu:hover, li.configmenu_selected {
 }
 li.configmenu a, li.configmenu a:hover,
 li.configmenu_selected a, li.configmenu_selected a:hover {
-	color:#fafaff;
+	color:#f00e30;
 }
 /* entitlements.html, readerconfig.html and user_edit.html */
 li.text_entitle {
