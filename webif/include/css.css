@@ -3461,7 +3461,7 @@ form table a {
 }
 
 /* **************** 5. MAIN MENU */
-#main {background: #18181c;height: 100px;background: url("https://github.com/speedy005/Ncam/blob/master/webif/images/179313905-eb6fcb99-a984-4879-9cc3-017314830631.png") no-repeat;background-position:center}
+#main {background: #18181c;height: 150px;background: url("https://github.com/speedy005/Ncam/blob/master/webif/images/footer.jpg") no-repeat;background-position:center}
 #mainmenu {
 	height:30px;
 	padding-top:6px;
