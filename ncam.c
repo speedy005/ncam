@@ -149,7 +149,7 @@ static void show_usage(void)
 	printf("%s",
 		   " \n"
 		   " \n");
-	printf("CardServer NCam %s-%s, build: %s (%s) ", CS_VERSION, CS_REVISION, CS_DATE_BUILD, CS_TARGET);
+	printf("CardServer NCam %s-%s, build: 1.0r1-%s (%s) ", CS_VERSION, CS_REVISION, CS_DATE_BUILD, CS_TARGET);
 	struct utsname info;
 	if (uname(&info) == 0)
 	{
