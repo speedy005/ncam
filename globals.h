@@ -379,10 +379,10 @@ typedef uint8_t uint8_t;
  * =========================== */
 #define CS_VERSION    "bonecrew"
 #ifndef CS_REVISION
-#define CS_REVISION   "r1"
+#define CS_REVISION   "r1.0.1"
 #endif
 #ifndef CS_GIT_VERSION
-#define CS_GIT_VERSION ""
+#define CS_GIT_VERSION "r1.0.1"
 #endif
 #ifndef CS_DATE_BUILD
 #define CS_DATE_BUILD  ""
@@ -393,7 +393,7 @@ typedef uint8_t uint8_t;
 #endif
 #endif
 #ifndef CS_TARGET
-#define CS_TARGET "unknown"
+#define CS_TARGET "r1.0.1"
 #endif
 #ifndef CS_CONFDIR
 #define CS_CONFDIR    "/var/tuxbox/config"
